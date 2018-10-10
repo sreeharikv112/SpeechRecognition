@@ -1,5 +1,5 @@
-# SpeechRecognition
-Voice Recognition Android Sample 
+# Speech Recognition
+Speech Recognition Android Sample 
 
 Screens</br>
 
