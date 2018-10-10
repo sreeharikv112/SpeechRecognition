@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SttApp</string>
+    <string name="error_in_recognizing">Could not identity your voice !</string>
+    <string name="tap_on_mike_to_speak">Tap on mike to speak</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported"><![CDATA[>Sorry! Your device doesn\\\'t support speech input]]></string>
+</resources>
